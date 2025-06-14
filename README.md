@@ -1,3 +1,3 @@
 # Blog
-## Models
+## Models:
 * Post
